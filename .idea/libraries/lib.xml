@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../eclipse_project/javaee_1/BFblogDemo/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../eclipse_project/javaee_1/BFblogDemo/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../eclipse_project/javaee_1/BFblogDemo/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../eclipse_project/javaee_1/BFblogDemo/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
